@@ -90,7 +90,9 @@ We used modern Android practices including:
 
 Here's a video that demos all of the app's implemented features:
 
+🎬 **[Watch Demo Video](https://drive.google.com/file/d/1xaGAD7EYWohHrVGltJwM4JE1jPUPpppg/view)**
 
+*VIDEO created with Screen Studio*
 
 ## Notes
 
